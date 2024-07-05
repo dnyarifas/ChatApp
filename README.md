@@ -1,1 +1,1 @@
-https://github.com/dnyarifas/ChatApp.git
+https://dnyarifas.github.io/ChatApp/
